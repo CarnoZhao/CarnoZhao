@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+#### kaggle
+[CarnoZhao's Kaggle Profile](https://www.kaggle.com/carnozhao)
+
+
+![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/carnozhao/competition/light)
+
+#### github
+<a href="https://github.com/carnozhao">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=carnozhao&count_private=true&show_icons=true&theme=radical" />
+</a>
+
 <!--
 **CarnoZhao/CarnoZhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
