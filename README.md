@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm 赵洵 👋
 
 ### My CV
 
@@ -11,6 +11,12 @@
 [CarnoZhao's Kaggle Profile](https://www.kaggle.com/carnozhao)
 
 ![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/carnozhao/competition/light)
+
+### Rubik's Cube/魔方
+
+养老魔方玩家[粗饼主页](https://cubing.com/results/person/2015ZHAO07)
+
+World Cube Association [Zhao Xun's main page](https://www.worldcubeassociation.org/persons/2015ZHAO07)
 
 <!-- ### Github
 <a href="https://github.com/carnozhao">
