@@ -1,11 +1,5 @@
 ### Hi there, I'm Zhao Xun/赵洵 👋
 
-### My CV/我的简历
-
-[中文简历](https://github.com/CarnoZhao/CarnoZhao/blob/main/resume-zh.pdf)
-
-[English CV](https://github.com/CarnoZhao/CarnoZhao/blob/main/resume-en.pdf)
-
 ### Kaggle
 
 [CarnoZhao's Kaggle Profile](https://www.kaggle.com/carnozhao)
