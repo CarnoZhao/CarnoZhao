@@ -1,5 +1,12 @@
 ### Hi there, I'm Zhao Xun/赵洵 👋
 
+### Strava/Cycling骑行🚴‍♂️/Running跑步🏃‍♀️
+
+
+[![Strava](https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white)](https://strava.com/athletes/127598319)
+
+[Strava Profile](https://www.strava.com/athletes/127598319)
+
 ### Kaggle
 
 [CarnoZhao's Kaggle Profile](https://www.kaggle.com/carnozhao)
